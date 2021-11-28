@@ -1,9 +1,2 @@
-<!DOCTYPE>
-  <html>
-  <head>
-  <title>Zipkart</title>
-  <body>
-  </body>
-  </head>
-  </html>
+console.log('I\'m learing git')
 
